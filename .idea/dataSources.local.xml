@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - jmdic@jycom.asuscomm.com" uuid="4919815f-7eaa-4941-af1b-abffa5b9e1ca">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>jmdic.pg_catalog jmdic.public</schema-pattern>
+      <default-schemas>jmdic.public</default-schemas>
+    </data-source>
+  </component>
+</project>

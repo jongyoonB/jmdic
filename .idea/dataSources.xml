@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="905391353">
+    <data-source source="LOCAL" name="PostgreSQL - jmdic@jycom.asuscomm.com" uuid="4919815f-7eaa-4941-af1b-abffa5b9e1ca">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://jycom.asuscomm.com:3432/jmdic</jdbc-url>
+    </data-source>
+  </component>
+</project>
