@@ -9,8 +9,11 @@
  * Python 3.4.3
  * PostgreSQL 
  * psycopg2
- * AWS
-
+ 
+#Update Plan
+ * Build GUI using PYQT
+ * Provide Video From NAS
+ 
 ![](http://portfolio.jongyoonb.space/jp/wp-content/uploads/sites/2/2016/09/j1.png)
 
 ![](http://portfolio.jongyoonb.space/jp/wp-content/uploads/sites/2/2016/09/j2-1.png)
