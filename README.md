@@ -1,4 +1,4 @@
-##Korean/Japanese subtitles Dictionary Using Python + Postgresql
+##Korean/Japanese subtitles Dictionary Using Python + Postgresql(Personal Project)
 #Python基盤の日本語、韓国語字幕を利用する辞書
 Inspired by : [통합자막파일을 이용한 실전 용례사전 By 술빨(Clien)](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=290229&sca=&sfl=wr_name%2C1&stx=%EC%88%A0%EB%B9%A8)
 ##機能
